@@ -1,0 +1,7 @@
+Place instructions on how to run your Nodes.
+
+Create a catkin workspace with a source folder.
+Place the package pickandplace_spring2022 in the source folder.
+run catkin_build
+run roslaunch workcell_809e workcell.launch
+
