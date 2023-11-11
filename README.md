@@ -15,6 +15,4 @@ Final project package for ENPM809E Spring
 - Check the simulation environment loads with: `roslaunch workcell_809e workcell.launch`
 
 
-# pick-and-place-setup
-# pick-and-place-setup
-"# pick-and-place-setup" 
+
