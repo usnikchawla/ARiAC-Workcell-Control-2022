@@ -1,5 +1,5 @@
 
-# Pick and Place Spring 2022 Setup
+# ARiAC Workcell Control 2022 setup
 
 This repository sets up the simulation environment for the Pick and Place Spring 2022 project.
 
